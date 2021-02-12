@@ -1,0 +1,11 @@
+h2{
+    background: rgb(245, 249, 255);
+}
+.pre{
+    background: rgb(245, 249, 255);
+    display: block;
+    /* max-block-size: 100px; */
+}
+ul{
+    padding-left: 20px;
+}
